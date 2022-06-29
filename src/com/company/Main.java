@@ -13,14 +13,14 @@ public class Main {
     public static void main(String[] args) throws IOException {
         // write your code here
 
-      //  AwtDemo awtDemo= new AwtDemo();
-     //   awtDemo.frame.setVisible(true);
+        AwtDemo awtDemo= new AwtDemo();
+        awtDemo.frame.setVisible(true);
 
-//        SwingDemo swingDemo = new SwingDemo();
-//        swingDemo.jFrame.setVisible(true);
-//
-//        Calculator calculator = new Calculator();
-//        calculator.frame.setVisible(true);
+        SwingDemo swingDemo = new SwingDemo();
+        swingDemo.jFrame.setVisible(true);
+
+        Calculator calculator = new Calculator();
+        calculator.frame.setVisible(true);
 
 
     }
